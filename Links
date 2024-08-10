@@ -1,3 +1,7 @@
 https://github.com/depklyon/raspberrypi-tm1637/blob/master/examples/robotdyn-4-digit-decimal/test.py
 
- TM1637 LED Driver ( 4 Segment Display IC )
+TM1637 LED Driver (4 Segment Display IC)
+
+TM1637 DataSheet Link:
+http://www.titanmec.com/search.html?keywords=TM1637&uri=product
+
